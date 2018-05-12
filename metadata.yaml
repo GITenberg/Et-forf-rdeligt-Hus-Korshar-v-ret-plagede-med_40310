@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '40545'
     url: http://www.gutenberg.org/2009/agents/40545
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40310#Et-forf-rdeligt-Hus-Korshar-v-ret-plagede-med
 gutenberg_issued: '2012-07-23'
 gutenberg_type: Text
 identifiers:
