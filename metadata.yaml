@@ -1,0 +1,38 @@
+_repo: Et-forf-rdeligt-Hus-Korshar-v-ret-plagede-med_40310
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brunsmand, Johan
+    birthdate: 1637
+    deathdate: 1707
+    gutenberg_agent_id: '40544'
+    url: http://www.gutenberg.org/2009/agents/40544
+  editor:
+    agent_name: Pio, Louis
+    aliases:
+    - Pio, L.
+    - Pio, Louis Albert Francois
+    - Pio, Louis Albert François
+    birthdate: 1841
+    deathdate: 1894
+    gutenberg_agent_id: '40545'
+    url: http://www.gutenberg.org/2009/agents/40545
+description: ''
+gutenberg_issued: '2012-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40310'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Trials (Witchcraft) -- Denmark'
+title: "Et forfærdeligt Hus-Kors\r\nEller en sandfærdig Beretning om en gruelig Fristelse,\
+  \ som tvende fromme Ægte-Folk i Kiøge for nogen rum Tid siden har været plagede\
+  \ med"
+url: http://www.gutenberg.org/ebooks/40310
